@@ -1,6 +1,6 @@
 # 🛒 Shop Assistant Chatbot (RAG-Based)
 
-![RAG Chatbot Architecture](shopAssistant.png)
+![RAG Chatbot Architecture](shopAssistant.png)(https://youtube.com/@sn-develpoment)
 
 A Retrieval-Augmented Generation (RAG) powered chatbot that acts as a smart assistant for your shop or product catalog. This application integrates LangChain, Pinecone, and Google Gemini to build a real-world, production-ready AI chatbot that understands user queries based on your own data.
 
